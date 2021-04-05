@@ -43,7 +43,6 @@ export async function fillTextWithEmoji(ctx: CanvasRenderingContext2D, text: str
 
             currentWidth += fontSize + emojiSideMargin * 2 + fontSize / 5;
         } else if(parsed.length > 0) {
-            console.log(parsed[0].url)
             const img = await loadImage(parsed[0].url);
 
             ctx.drawImage(
