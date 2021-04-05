@@ -22,3 +22,5 @@ And using discord emojis!
 ```ts
 await fillTextWithEmoji(ctx, 'Hi <:kek:819597288238088213>', 10, 40); 
 ```
+
+> This package was originally created by [@abh80](https://github.com/abh80) for node.js!
