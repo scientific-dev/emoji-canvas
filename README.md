@@ -31,6 +31,6 @@ And using discord emojis!
 await fillTextWithEmoji(ctx, 'Hi <:kek:819597288238088213>', 10, 40); 
 ```
 
-![Example with discord emojis](https://github.com/Scientific-Guy/emoji-canvas/blob/master/examples/example_1.png?raw=true)
+![Example with discord emojis](https://github.com/Scientific-Guy/emoji-canvas/blob/master/examples/example_2.png?raw=true)
 
 > This package was originally created by [@abh80](https://github.com/abh80) for node.js!
