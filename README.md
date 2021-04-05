@@ -15,9 +15,11 @@ import fillTextWithEmoji from "https://raw.githubusercontent.com/Scientific-Guy/
 const canvas = Canvas.MakeCanvas(200, 200);
 const ctx = canvas.getContext('2d');
 
+ctx.fillRect(0, 0, 800 - 20, 800 - 20);
 ctx.fillStyle = 'white';
-await fillTextWithEmoji(ctx, 'Hi 🤣', 10, 40); 
+ctx.font = '30px monospace';
 
+await fillTextWithEmoji(ctx, 'Hi 🤣', 10, 40); 
 Deno.writeFileSync("Test.png", dataURLtoFile(canvas.toDataURL()))
 ```
 
