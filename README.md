@@ -23,7 +23,7 @@ await fillTextWithEmoji(ctx, 'Hi 🤣', 10, 40);
 Deno.writeFileSync("Test.png", dataURLtoFile(canvas.toDataURL()))
 ```
 
-![Example with unicode emojis](/examples/example_1.png)
+![Example with unicode emojis](https://github.com/Scientific-Guy/emoji-canvas/blob/master/examples/example_1.png?raw=true)
 
 And using discord emojis!
 
@@ -31,6 +31,6 @@ And using discord emojis!
 await fillTextWithEmoji(ctx, 'Hi <:kek:819597288238088213>', 10, 40); 
 ```
 
-![Example with discord emojis](/examples/example_2.png)
+![Example with discord emojis](https://github.com/Scientific-Guy/emoji-canvas/blob/master/examples/example_1.png?raw=true)
 
 > This package was originally created by [@abh80](https://github.com/abh80) for node.js!
