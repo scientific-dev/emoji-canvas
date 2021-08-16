@@ -2,7 +2,7 @@
 
 An easy to use module to write text with parsed emojis (supports discord emojis too) in [deno-canvas](https://deno.land/x/canvas@v1.1.3)!
 
-[![](https://www.codefactor.io/repository/github/scientific-guy/emoji-canvas/badge?style=for-the-badge)](https://www.codefactor.io/repository/github/scientific-guy/emoji-canvas)
+[![](https://www.codefactor.io/repository/github/scientific-dev/emoji-canvas/badge?style=for-the-badge)](https://www.codefactor.io/repository/github/scientific-guy/emoji-canvas)
 [![](https://img.shields.io/badge/VIEW-GITHUB-white?style=for-the-badge)](https://github.com/Scientific-Guy/emoji-canvas)
 [![](https://img.shields.io/github/v/tag/Scientific-Guy/emoji-canvas?style=for-the-badge&label=version)](https://github.com/Scientific-Guy/emoji-canvas)
 
